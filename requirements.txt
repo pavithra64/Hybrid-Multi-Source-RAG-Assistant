@@ -1,0 +1,12 @@
+streamlit
+sentence-transformers
+transformers
+torch
+faiss-cpu
+pypdf
+ddgs
+beautifulsoup4
+requests
+langchain
+numpy
+pandas

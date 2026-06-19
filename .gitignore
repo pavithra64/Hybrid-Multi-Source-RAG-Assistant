@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# Vector DB
+vectorstore/
+
+# Model Cache
+.cache/
+huggingface/
+
+# OS Files
+.DS_Store
+Thumbs.db
